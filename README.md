@@ -14,7 +14,7 @@ This package moves the preview data from the modal to an expandable row. Other d
 You can install the nova tool in to a Laravel app that uses [Nova](https://nova.laravel.com) via composer:
 
 ```bash
-composer require sprigs/expandable-row
+composer require beshoo/expandablerow
 ```
 
 ## Usage
