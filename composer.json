@@ -1,0 +1,44 @@
+{
+    "name": "beshoo/expandable-row",
+    "description": "A Laravel Nova package that moves the preview from the modal to an expandable row.",
+    "keywords": [
+        "laravel",
+        "nova",
+        "expandablerow",
+        "laravel-nova"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "beshoo",
+            "role": "Developers"
+        }
+    ],
+    "require": {
+        "php": "^7.3|^8.0",
+        "laravel/framework": "^8.0|^9.0|^10.0",
+        "laravel/nova": "^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Beshoo\\ExpandableRow\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Beshoo\\ExpandableRow\\FieldServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "support": {
+        "issues": "https://github.com/beshoo/expandable-row/issues",
+        "source": "https://github.com/beshoo/expandable-row"
+    }
+}
