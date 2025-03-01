@@ -38,7 +38,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "support": {
-        "issues": "https://github.com/beshoo/expandable-row/issues",
-        "source": "https://github.com/beshoo/expandable-row"
+        "issues": "https://github.com/beshoo/expandablerow/issues",
+        "source": "https://github.com/beshoo/expandablerow"
     }
 }
