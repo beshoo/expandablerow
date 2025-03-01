@@ -1,5 +1,5 @@
 {
-    "name": "beshoo/expandable-row",
+    "name": "beshoo/expandablerow",
     "description": "A Laravel Nova package that moves the preview from the modal to an expandable row.",
     "keywords": [
         "laravel",
